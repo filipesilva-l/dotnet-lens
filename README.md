@@ -1,3 +1,5 @@
+# dotnet-lens
+
 dotnet-lens is a library for listing dependencies between .NET projects and packages.
 
 This library provides functionality to parse .NET project files (`.csproj`, `.fsproj`, `.vbproj`)
