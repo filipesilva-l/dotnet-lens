@@ -2,6 +2,9 @@
 name = "dotnet-lens"
 version = "0.1.0"
 edition = "2021"
+description = "dotnet-lens is a library for listing dependencies between .NET projects and packages."
+license = "MIT"
+repository = "https://github.com/filipesilva-l/dotnet-lens"
 
 [dependencies]
 serde = { version = "1.0.204", features = ["derive"], optional = true }
